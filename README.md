@@ -1,2 +1,2 @@
 # Calorix
-To keep track o what you eat
+To keep track of what you eat
