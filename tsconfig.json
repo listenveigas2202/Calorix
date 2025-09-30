@@ -7,9 +7,10 @@
 
     // Environment Settings
     // See also https://aka.ms/tsconfig/module
-    "module": "nodenext",
-    "target": "esnext",
     "types": [],
+    "target": "ES2022",             // or ES2020+
+    "module": "NodeNext",           // must match moduleResolution
+    "moduleResolution": "NodeNext", // for ESM imports
     // For nodejs:
     // "lib": ["esnext"],
     // "types": ["node"],
