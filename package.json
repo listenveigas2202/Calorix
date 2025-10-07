@@ -4,6 +4,7 @@
   "description": "To keep track of what you eat",
   "main": "index.js",
   "type": "module",
+  "type": "module",
   "scripts": {
     "dev": "tsx watch src/index.ts",
     "build": "tsc"
